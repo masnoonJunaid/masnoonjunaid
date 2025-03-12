@@ -11,6 +11,16 @@ I thrive on creating seamless user experiences and optimizing application perfor
 
 ## 🛠 Tech Stack & Skills  
 
+### **AI & Machine Learning 🤖**  
+![Conversational AI](https://img.shields.io/badge/-Conversational_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/-Generative_AI-00C853?style=for-the-badge&logo=openai&logoColor=white)  
+![Model Bias Analysis](https://img.shields.io/badge/-Model_Bias_Analysis-6200EA?style=for-the-badge&logo=ai&logoColor=white)  
+![RAG](https://img.shields.io/badge/-RAG_(Retrieval_Augmented_Generation)-D81B60?style=for-the-badge&logo=vector&logoColor=white)  
+![Vector Databases](https://img.shields.io/badge/-Vector_Databases-1976D2?style=for-the-badge&logo=postgresql&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-673AB7?style=for-the-badge&logo=python&logoColor=white)  
+![Foundational Models](https://img.shields.io/badge/-Foundational_Models-FF4081?style=for-the-badge&logo=machine-learning&logoColor=white)  
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-FFAB00?style=for-the-badge&logo=ai&logoColor=white)  
+
 ### **Frontend ⚡**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
