@@ -1,5 +1,5 @@
 # 🔥 Masnoon Junaid🥷 | Software Engineer 🚀  
-![Masnoon Junaid Banner](https://github.com/masnoonJunaid/masnoonJunaid/raw/main/banner.png)  
+
 
 👋 Hey there! I'm **Masnoon Junaid**, a **Full-Stack Software Engineer** 🏫.  
 I specialize in **React, Next.js, Flutter, and Cloud Engineering**, building high-performance web and mobile applications. 🚀  
