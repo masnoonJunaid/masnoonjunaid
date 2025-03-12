@@ -51,18 +51,6 @@ I thrive on creating seamless user experiences and optimizing application perfor
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masnoonJunaid&show_icons=true&theme=radical" alt="Masnoon's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masnoonJunaid&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ## 📫 How to Reach Me  
 - 💼 [Portfolio](https://masnoonjunaid.com/)  
 - 🔗 [LinkedIn](https://linkedin.com/in/masnoon-junaid)  
