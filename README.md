@@ -1,16 +1,62 @@
-## Hi there 👋
+# 🔥 Masnoon Junaid — Code Ninja 🥷 | Software Engineer 🚀  
+![Masnoon Junaid Banner](https://github.com/masnoonJunaid/masnoonJunaid/raw/main/banner.png)  
 
-<!--
-**masnoonJunaid/masnoonjunaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm **Masnoon Junaid**, a **Full-Stack Software Engineer** and **Founder of Campus Assembly** 🏫.  
+I specialize in **React, Next.js, Flutter, and Cloud Engineering**, building high-performance web and mobile applications. 🚀  
 
-Here are some ideas to get you started:
+💡 Passionate about **scalability, developer tooling, and microfrontend architectures**,  
+I thrive on creating seamless user experiences and optimizing application performance.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Skills  
+
+### **Frontend ⚡**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### **Backend 🛠️**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+### **Cloud & DevOps ☁️**  
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 🚀 Featured Projects  
+- **[Campus Assembly](https://campusassembly.com/)** 🎓 SaaS-based **Education Management Platform** | **React, Next.js, PostgreSQL, Node.js**  
+- **EV Battery Swap App** ⚡ **Flutter, Firebase, GCP** | Real-time battery swap and analytics  
+- **Admin Dashboard for Esmito** 🔋 **React, Redux, Next.js** | Performance-optimized analytics dashboard  
+- **Developer Tools** 🛠 Custom **ESLint rules & Webpack plugins** for improved workflows  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masnoonJunaid&show_icons=true&theme=radical" alt="Masnoon's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masnoonJunaid&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📫 How to Reach Me  
+- 💼 [Portfolio](https://masnoonjunaid.com/)  
+- 🔗 [LinkedIn](https://linkedin.com/in/masnoon-junaid)  
+- 💻 [GitHub](https://github.com/masnoonJunaid)  
+- 📩 masnoon20@gmail.com  
+
+---
+
+🚀 **Keep Building. Keep Innovating.** 🥷🔥
