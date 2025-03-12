@@ -46,8 +46,7 @@ I thrive on creating seamless user experiences and optimizing application perfor
 ## 🚀 Featured Projects  
 - **[Campus Assembly](https://campusassembly.com/)** 🎓 SaaS-based **Education Management Platform** | **React, Next.js, PostgreSQL, Node.js**  
 - **EV Battery Swap App** ⚡ **Flutter, Firebase, GCP** | Real-time battery swap and analytics  
-- **Admin Dashboard for Esmito** 🔋 **React, Redux, Next.js** | Performance-optimized analytics dashboard  
-- **Developer Tools** 🛠 Custom **ESLint rules & Webpack plugins** for improved workflows  
+- **Admin Dashboard for Esmito** 🔋 **React, Redux, Next.js** | Performance-optimized analytics dashboard   
 
 ---
 
