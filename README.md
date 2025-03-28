@@ -1,6 +1,6 @@
 # 🔥 Masnoon Junaid🥷 | Software Engineer 🚀  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=masnoonjunaid&color=green)
+
 
 
 👋 Hey there! I'm **Masnoon Junaid**, a **Full-Stack Software Engineer** 🏫.  
